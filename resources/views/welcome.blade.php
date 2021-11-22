@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravel Lorenzo
                     Laravel Simone
+                    Aggiunta di roba a caso che rares deve farmi vedere
                 </div>
 
                 <div class="links">
