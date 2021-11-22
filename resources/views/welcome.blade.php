@@ -86,6 +86,9 @@
                     Aggiunta di roba a caso che rares deve farmi vedere
                     rares spatariu hambareanu constantin
                 </div>
+                <div>
+                    ciao
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
