@@ -84,6 +84,7 @@
                     Laravel Lorenzo
                     Laravel Simone
                     Aggiunta di roba a caso che rares deve farmi vedere
+                    rares spatariu hambareanu constantin
                 </div>
 
                 <div class="links">
