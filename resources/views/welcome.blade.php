@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel Lorenzo
-                    Laravel, simone presente
+                    Laravel Simone
                 </div>
 
                 <div class="links">
