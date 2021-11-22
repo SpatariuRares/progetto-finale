@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravel Lorenzo
                     Laravel Simone
+                    rares spatariu hambareanu constantin
                 </div>
 
                 <div class="links">
