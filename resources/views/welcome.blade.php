@@ -83,11 +83,9 @@
                 <div class="title m-b-md">
                     Laravel Lorenzo
                     Laravel Simone
-<<<<<<< HEAD
-                    Aggiunta di roba a caso che rares deve farmi vedere
-                    rares spatariu hambareanu constantin
-=======
->>>>>>> parent of 723314c (rares)
+                </div>
+                <div>
+                    ciao
                 </div>
 
                 <div class="links">
